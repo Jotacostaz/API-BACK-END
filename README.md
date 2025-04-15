@@ -3,22 +3,13 @@
 Projeto desenvolvido como parte da disciplina de Desenvolvimento Java, com foco em criação de APIs REST utilizando Spring Boot.
 
 ## 👥 Dupla
-- Igor Matheus Lopes de Oliveira (01343570)
-- Lucas Manuel (01697699)
-
+- João Vitor Abreu Siqueira (01707782)
+- João Pedro da Silva Costa (01677928)
 ## 📋 Descrição
 API para gerenciamento de pessoas de uma universidade.
 
 - Permite cadastrar uma pessoa
 - Permite buscar uma pessoa por ID
-
-## 🧱 Tecnologias usadas
-- Java 17
-- Spring Boot 3
-- Spring Web
-- Spring Data JPA
-- Lombok
-- MySQL
 
 ## 🗄️ Estrutura
 
